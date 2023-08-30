@@ -1,13 +1,10 @@
 <h1 align="center">FußballBot überarbeitet von Paneka</h1>
 <p align = "center"><img src = "assets/logo.png"><br><br>
-<img src = "https://img.shields.io/github/languages/top/MaheshBharadwaj/paneka?logo=python&logoColor=%23dddddd&style=flat-square">
-<img src = "https://img.shields.io/github/v/tag/MaheshBharadwaj/paneka?color=%2349a305&label=Release&logo=github&logoColor=%23dddddd&style=flat-square">
 <img src = "http://invidget.switchblade.xyz/3mbTDaK3">
+<h2 align="center">Support <a href = "https://discord.gg/3mbTDaK3">Server</a></h2>
 <h2 align="center">Klicke <a href = "https://discord.com/api/oauth2/authorize?client_id=1075470338340704398&permissions=8&scope=bot">hier</a> um den Bot auf deinen Server einzuladen!</h2>
 </p>
 <hr>
-
-http://invidget.switchblade.xyz/3mbTDaK3
 
 # Einleitung
 FußballBot für Discord geschrieben mit Tabelle, Spielständen, Live Ergebnisse, Spielzeiten in `python` mit [discord.py](https://pypi.org/project/discord.py/) und derzeit gehostet auf meinem Eigenen Server.
