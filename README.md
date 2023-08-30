@@ -7,9 +7,9 @@
 <hr>
 
 # Einleitung
-Fußball-Bot für Discord geschrieben in `python` mit [discord.py](https://pypi.org/project/discord.py/) und derzeit gehostet auf meinem Eigenen Server.
+FußballBot für Discord geschrieben mit Tabelle, Spielständen, Live Ergebnisse, Spielzeiten in `python` mit [discord.py](https://pypi.org/project/discord.py/) und derzeit gehostet auf meinem Eigenen Server.
 
-Die API, die für den Abruf von Fußballdaten verwendet wird [football-data.org](https://football-data.org) Kostenloser Tarif und daher haben wir ein Rate Limit von **10 Requests / Min** und **12** Wettbewerbe.
+Die API, die für den Abruf von Fußballdaten verwendet wird [football-data.org](https://football-data.org) Kostenloser Tarif und daher haben wir eine Rate Limit von **10 Requests / Min** und **12** Wettbewerbe.
 
 # Commands
 ### 1. Help
