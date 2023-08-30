@@ -1,4 +1,4 @@
-<h1 align="center">FußballBot überarbeitet von Paneka</h1>
+<h1 align="center">FußballBot</h1>
 <p align = "center"><img src = "assets/logo.png"><br><br>
 <img src = "http://invidget.switchblade.xyz/3mbTDaK3">
 <h2 align="center">Support <a href = "https://discord.gg/3mbTDaK3">Server und wo der Bot aktuell ausgeführt wird</a></h2>
