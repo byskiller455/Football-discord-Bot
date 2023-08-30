@@ -2,7 +2,7 @@
 <p align = "center"><img src = "assets/logo.png"><br><br>
 <img src = "https://img.shields.io/github/languages/top/MaheshBharadwaj/paneka?logo=python&logoColor=%23dddddd&style=flat-square">
 <img src = "https://img.shields.io/github/v/tag/MaheshBharadwaj/paneka?color=%2349a305&label=Release&logo=github&logoColor=%23dddddd&style=flat-square">
-<h2 align="center">Klicke <a href = "https://discord.com/api/oauth2/authorize?client_id=731544990446256198&permissions=60416&scope=bot">hier</a> um den Bot auf deinen Server einzuladen!</h2>
+<h2 align="center">Klicke <a href = "https://discord.com/api/oauth2/authorize?client_id=1075470338340704398&permissions=8&scope=bot">hier</a> um den Bot auf deinen Server einzuladen!</h2>
 </p>
 <hr>
 
@@ -70,7 +70,7 @@ Limit schränkt die Anzahl der angezeigten Treffer ein und beträgt standardmä�
 👉 Kopiere die Repository: **git clone https://github.com/byskiller455/Fussball-discord-Bot**
 
 ```bash
-   cd Fußball-discord-Bot/
+   cd Football-discord-Bot/
    pip install -r requirements.txt
 ```
  - Dann wechselst du zur [Discord Developer](https://discord.com/developers/applications) Seite und erstellst einen neuen Bot
