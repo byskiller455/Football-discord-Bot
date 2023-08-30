@@ -1,7 +1,8 @@
 <h1 align="center">FußballBot überarbeitet von Paneka</h1>
 <p align = "center"><img src = "assets/logo.png"><br><br>
 <img src = "http://invidget.switchblade.xyz/3mbTDaK3">
-<h2 align="center">Support <a href = "https://discord.gg/3mbTDaK3">Server</a></h2>
+<h2 align="center">Support <a href = "https://discord.gg/3mbTDaK3">Server und wo der Bot aktuell ausgeführt wird</a></h2>
+
 <h2 align="center">Klicke <a href = "https://discord.com/api/oauth2/authorize?client_id=1075470338340704398&permissions=8&scope=bot">hier</a> um den Bot auf deinen Server einzuladen!</h2>
 </p>
 <hr>
