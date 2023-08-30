@@ -67,7 +67,7 @@ Zeigt die Live-Ergebnisse von Spielen in der gewünschten Liga oder Mannschaft a
 Limit schränkt die Anzahl der angezeigten Treffer ein und beträgt standardmäßig 5
 
 # Wie man ihn Privat ausführt:
-👉 Kopiere die Repository: **git clone https://github.com/byskiller455/Fussball-discord-Bot**
+👉 Kopiere die Repository: **git clone https://github.com/byskiller455/Football-discord-Bot**
 
 ```bash
    cd Football-discord-Bot/
