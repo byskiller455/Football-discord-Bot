@@ -6,6 +6,8 @@
 </p>
 <hr>
 
+http://invidget.switchblade.xyz/3mbTDaK3
+
 # Einleitung
 FußballBot für Discord geschrieben mit Tabelle, Spielständen, Live Ergebnisse, Spielzeiten in `python` mit [discord.py](https://pypi.org/project/discord.py/) und derzeit gehostet auf meinem Eigenen Server.
 
