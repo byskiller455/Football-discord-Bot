@@ -62,18 +62,12 @@ Limit schränkt die Anzahl der angezeigten Geräte ein und beträgt standardmä�
 ### 5. Live Scores
 Zeigt die Live-Ergebnisse von Spielen in der gewünschten Liga oder Mannschaft an
 
-**usage:** `.live [league code | team code] [limit: default 5]`
+**Nutzung:** `.live [league code | team code] [limit: default 5]`
 
 Limit schränkt die Anzahl der angezeigten Treffer ein und beträgt standardmäßig 5
 
-<p align="center">
-<img alt="Team Fixtures image" src="assets/live-league-v2.png">
-</p>
-
-
 # Wie man ihn Privat ausführt:
-👉 Fork und Kopiere die Repository
-git clone https://github.com/byskiller455/Fussball-discord-Bot
+👉 Kopiere die Repository: **git clone https://github.com/byskiller455/Fussball-discord-Bot**
 
 ```bash
    cd Fußball-discord-Bot/
@@ -93,13 +87,13 @@ git clone https://github.com/byskiller455/Fussball-discord-Bot
  - Der Bot müsste jetzt auf deinem Server verfügbar sein und Online sein :D
 
 # 24/7 Hosting
-- Wenn du das Terminal nicht offen lassen willst oder unter Linux arbeitest, installiere pm2 mit npm i -g pm2 an und gib ein: pm2 start bot.py --name Mein_Bot_Name --interpreter python3
-- Um den Prozess zu beobachten gib ein: pm2 list
+- Wenn du das Terminal nicht offen lassen willst oder unter Linux arbeitest, installiere pm2 mit **npm i -g pm2** an und gib ein: **pm2 start bot.py --name Mein_Bot_Name --interpreter python3**
+- Um den Prozess zu beobachten gib ein: **pm2 list**
 - Hier werden alle Prozesse mit ihrem Namen, ihrer ID und ihrem aktuellen Status (online/offline) angezeigt.
-- Um den Prozess zu Stoppen gib ein: pm2 stop ID oder um alle Prozesse zu Stoppen: pm2 stop all
-- Um den Prozess zu Löschen gib ein: pm2 delete ID, pm2 delete all
-- Um den Prozess neuzustarten gib ein: pm2 restart ID, pm2 restart all
-- Um die Logs vom Prozess sich anzuschaeun gib ein: pm2 logs oder pm2 log ID
+- Um den Prozess zu Stoppen gib ein: **pm2 stop ID** oder um alle Prozesse zu Stoppen: **pm2 stop all**
+- Um den Prozess zu Löschen gib ein: **pm2 delete ID**, **pm2 delete all**
+- Um den Prozess neuzustarten gib ein: **pm2 restart ID**, **pm2 restart all**
+- Um die Logs vom Prozess sich anzuschaeun gib ein: **pm2 logs** oder **pm2 log ID**
 
  
  # League Codes
@@ -127,7 +121,6 @@ Alle Teamcodes sind nach Ligen geordnet:
  - [Premier League](#premier-league)
  - [English Championship](#english-championship)
  - [Eredivisie](#eredivisie)
- - [Mixed](#mixed)
  
  ## Bundesliga
 
